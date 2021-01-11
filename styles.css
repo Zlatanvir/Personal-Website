@@ -161,7 +161,10 @@ a:hover {
   width: 50%;
   margin: 100px auto 100px auto;
 }
-
+.contact {
+  background-color: #fcf8ec;
+  text-align: center;
+}
 .contact-list {
   list-style: none;
 }
